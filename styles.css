@@ -5,3 +5,12 @@ color:white;
 background:black;
 text-align:center;
 }
+#wrapper{
+position:relative;
+height:80%;
+width:80%;
+background:#ffeea0;
+color:white;
+justify-content:center;
+margin:0;
+}
