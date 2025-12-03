@@ -2,7 +2,7 @@ body{
 font-family: "Comic Sans MS", "Comic Sans", cursive;
 font-size:25px;
 color:white;
-background:black;
+background:rgb(63, 10, 84);
 text-align:center;
 }
 #wrapper{
@@ -10,6 +10,9 @@ position:relative;
 height:50%;
 width:80%;
 background:#8142f5;
+background-image:url("casa.jpg");
+background-size:cover;
+background-repeat:no-repeat;
 color:white;
 justify-content:center;
 margin-left:10%;
