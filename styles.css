@@ -4,13 +4,17 @@ font-size:25px;
 color:white;
 background:rgb(63, 10, 84);
 text-align:center;
+ text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
 }
 #wrapper{
 position:relative;
 height:50%;
 width:80%;
 background:#8142f5;
-background-image:url("casa.jpg");
 background-size:cover;
 background-repeat:no-repeat;
 color:white;
